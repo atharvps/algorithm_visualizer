@@ -247,4 +247,4 @@ userId, algorithmId, name, category, timeComplexity, spaceComplexity, notes, tag
 
 ---
 
-Built with ❤️ for FAANG-level portfolio quality.
+Built with ❤️.
